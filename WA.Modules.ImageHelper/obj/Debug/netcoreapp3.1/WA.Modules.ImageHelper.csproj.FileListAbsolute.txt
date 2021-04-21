@@ -1,0 +1,9 @@
+/Users/allen/RiderProjects/WA.Modules/WA.Modules.ImageHelper/bin/Debug/netcoreapp3.1/WA.Modules.ImageHelper.deps.json
+/Users/allen/RiderProjects/WA.Modules/WA.Modules.ImageHelper/bin/Debug/netcoreapp3.1/WA.Modules.ImageHelper.dll
+/Users/allen/RiderProjects/WA.Modules/WA.Modules.ImageHelper/bin/Debug/netcoreapp3.1/WA.Modules.ImageHelper.pdb
+/Users/allen/RiderProjects/WA.Modules/WA.Modules.ImageHelper/obj/Debug/netcoreapp3.1/WA.Modules.ImageHelper.csprojAssemblyReference.cache
+/Users/allen/RiderProjects/WA.Modules/WA.Modules.ImageHelper/obj/Debug/netcoreapp3.1/WA.Modules.ImageHelper.AssemblyInfoInputs.cache
+/Users/allen/RiderProjects/WA.Modules/WA.Modules.ImageHelper/obj/Debug/netcoreapp3.1/WA.Modules.ImageHelper.AssemblyInfo.cs
+/Users/allen/RiderProjects/WA.Modules/WA.Modules.ImageHelper/obj/Debug/netcoreapp3.1/WA.Modules.ImageHelper.csproj.CoreCompileInputs.cache
+/Users/allen/RiderProjects/WA.Modules/WA.Modules.ImageHelper/obj/Debug/netcoreapp3.1/WA.Modules.ImageHelper.dll
+/Users/allen/RiderProjects/WA.Modules/WA.Modules.ImageHelper/obj/Debug/netcoreapp3.1/WA.Modules.ImageHelper.pdb
